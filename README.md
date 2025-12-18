@@ -5,7 +5,7 @@
 ## Hi, I'm Anna! ٩(◕‿◕)۶ (ˇ෴ˇ)
 
 <p>
-<h3>
+<h4>
   
 In case of panic, remember that the answer to all things of life and doubts is *
 
@@ -13,10 +13,12 @@ In case of panic, remember that the answer to all things of life and doubts is *
 
 ---
 
-*'Protect me from knowing what I don't need to know. Protect me from even knowing that there are things to know that I don't know. Protect me from knowing that I decided not to know about the things that I decided not to know about. Amen.'
-There's another prayer that goes with it that's very important. … 'Lord, lord, lord. Protect me from the consequences of the above prayer. Amen' 
-And that's it. Most of the trouble people get into in life comes from leaving out that last part.*
+*'Protect me from knowing what I don't need to know. Protect me from even knowing that there are things to know that I don't know. Protect me from knowing that I decided not to know about the things that I decided not to know about. Amen.'*
 
-</h3>
+*There's another prayer that goes with it that's very important. … 'Lord, lord, lord. Protect me from the consequences of the above prayer. Amen'* 
+
+*And that's it. Most of the trouble people get into in life comes from leaving out that last part.*
+
+</h4>
 
 </p>
