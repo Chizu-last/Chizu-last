@@ -8,7 +8,7 @@
 
 In case of panic, remember that the answer to all things of life and doubts is *
 
-![Deep Thought](./deep-thought-thinking.gif)
+![Deep Thought](./assets/deep-thought-thinking.gif)
 
 ---
 
