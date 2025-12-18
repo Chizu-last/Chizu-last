@@ -5,7 +5,7 @@
 ## Hi, I'm Anna! ٩(◕‿◕)۶ (ˇ෴ˇ)
 
 <p>
-<small>
+<h3>
   
 In case of panic, remember that the answer to all things of life and doubts is *
 
@@ -17,6 +17,6 @@ In case of panic, remember that the answer to all things of life and doubts is *
 There's another prayer that goes with it that's very important. … 'Lord, lord, lord. Protect me from the consequences of the above prayer. Amen' 
 And that's it. Most of the trouble people get into in life comes from leaving out that last part.*
 
-</small>
+</h3>
 
 </p>
